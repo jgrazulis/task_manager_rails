@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Web app to add, edit, and delete tasks.
 
-Things you may want to cover:
+* Ruby version: 2.7.2
 
-* Ruby version
+* Rails: 5.2.6
 
-* System dependencies
+* Deployment instructions: Navigate to http://localhost:3000/ for some Rails magic once using the task manager!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
